@@ -1,24 +1,28 @@
-import logo from './logo.svg';
+import { APSApp } from './components/apsApp';
+import json2023 from './data2023.json';
+import json2024 from './data2024.json';
 import './App.css';
 
 function App() {
+
+  const convertJson = (json) => {
+    return json.map(value => {
+      return {
+        date: new Date(value.date), 
+        time: value.time, 
+        ico: value.ico, 
+        sro: value.sro, 
+        mudr: value.mudr, 
+        executor: value.executor
+      };
+    });
+  };
+  
+  const data2023 = convertJson(json2023);
+  const data2024 = convertJson(json2024);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <APSApp data={{data2023, data2024}}/>
   );
 }
 

@@ -1,0 +1,3866 @@
+[
+    {
+        "date": "2023-01-01",
+        "time": "7:00 - 14:30",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-01-01",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-02",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-03",
+        "time": "16:00 - 22:00",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-01-04",
+        "time": "16:00 - 22:00",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-01-05",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-06",
+        "time": "7:00 - 14:30",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-01-06",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-07",
+        "time": "7:00 - 14:30",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-01-07",
+        "time": "14:30 - 22:00",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-01-08",
+        "time": "7:00 - 14:30",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-01-08",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-09",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-10",
+        "time": "16:00 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-01-11",
+        "time": "16:00 - 22:00",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-01-12",
+        "time": "16:00 - 22:00",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-01-13",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-14",
+        "time": "7:00 - 14:30",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-01-14",
+        "time": "14:30 - 22:00",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-01-15",
+        "time": "7:00 - 14:30",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-01-15",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-16",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-17",
+        "time": "16:00 - 22:00",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-01-18",
+        "time": "16:00 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-01-19",
+        "time": "16:00 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-01-20",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-21",
+        "time": "7:00 - 14:30",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "",
+        "executor": "KNG s.r.o. (36510718)"
+    },
+    {
+        "date": "2023-01-21",
+        "time": "14:30 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-01-22",
+        "time": "7:00 - 14:30",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Ladislav Škyvra",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Ladislav Škyvra"
+    },
+    {
+        "date": "2023-01-22",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-23",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-24",
+        "time": "16:00 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-01-25",
+        "time": "16:00 - 22:00",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-01-26",
+        "time": "16:00 - 22:00",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-01-27",
+        "time": "16:00 - 22:00",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-01-28",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-28",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-29",
+        "time": "7:00 - 14:30",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-01-29",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-01-30",
+        "time": "16:00 - 22:00",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-01-31",
+        "time": "16:00 - 22:00",
+        "ico": "44491646",
+        "sro": "MEDIMEL s.r.o.",
+        "mudr": "MUDr. Svetlana  Meľuchová",
+        "executor": "MEDIMEL, s. r. o. (44491646) - MUDr. Svetlana  Meľuchová"
+    },
+    {
+        "date": "2023-02-01",
+        "time": "16:00 - 22:00",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-02-02",
+        "time": "16:00 - 22:00",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-02-03",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-04",
+        "time": "7:00 - 14:30",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-02-04",
+        "time": "14:30 - 22:00",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-02-05",
+        "time": "7:00 - 14:30",
+        "ico": "43822991",
+        "sro": "PO-zdrav s.r.o.",
+        "mudr": "MUDr. Eva Húsková",
+        "executor": "PO-zdrav, s.r.o. (43822991) - MUDr. Eva Húsková"
+    },
+    {
+        "date": "2023-02-05",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-06",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-07",
+        "time": "16:00 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "MUDr. Mária Fedorová",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093) - MUDr. Mária Fedorová"
+    },
+    {
+        "date": "2023-02-08",
+        "time": "16:00 - 22:00",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-02-09",
+        "time": "16:00 - 22:00",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-02-10",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-11",
+        "time": "7:00 - 14:30",
+        "ico": "47507608",
+        "sro": "PODHORSKÁ s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "PODHORSKÁ, s.r.o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-02-11",
+        "time": "14:30 - 22:00",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-02-12",
+        "time": "7:00 - 14:30",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-02-12",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-13",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-14",
+        "time": "16:00 - 22:00",
+        "ico": "47057271",
+        "sro": "Praktická ambulancia s.r.o.",
+        "mudr": "MUDr. Ignác Kubica (Prešov)",
+        "executor": "Praktická ambulancia, s.r.o. (47057271) - MUDr. Ignác Kubica (Prešov)"
+    },
+    {
+        "date": "2023-02-15",
+        "time": "16:00 - 22:00",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "",
+        "executor": "Praktik M.T., s.r.o. (45667195)"
+    },
+    {
+        "date": "2023-02-16",
+        "time": "16:00 - 22:00",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-02-17",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-18",
+        "time": "7:00 - 14:30",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-02-18",
+        "time": "14:30 - 22:00",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-02-19",
+        "time": "7:00 - 14:30",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-02-19",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-20",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-21",
+        "time": "16:00 - 22:00",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-02-22",
+        "time": "16:00 - 22:00",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-02-23",
+        "time": "16:00 - 22:00",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-02-24",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-25",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-25",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-26",
+        "time": "7:00 - 14:30",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-02-26",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-02-27",
+        "time": "16:00 - 22:00",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-02-28",
+        "time": "16:00 - 22:00",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-03-01",
+        "time": "16:00 - 22:00",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-03-02",
+        "time": "16:00 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-03-03",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-04",
+        "time": "7:00 - 14:30",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-03-04",
+        "time": "14:30 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-03-05",
+        "time": "7:00 - 14:30",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-03-05",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-06",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-07",
+        "time": "16:00 - 22:00",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-03-08",
+        "time": "16:00 - 22:00",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-03-09",
+        "time": "16:00 - 22:00",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-03-10",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-11",
+        "time": "7:00 - 14:30",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-03-11",
+        "time": "14:30 - 22:00",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-03-12",
+        "time": "7:00 - 14:30",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-03-12",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-13",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-14",
+        "time": "16:00 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-03-15",
+        "time": "16:00 - 22:00",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Ladislav Škyvra",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Ladislav Škyvra"
+    },
+    {
+        "date": "2023-03-16",
+        "time": "16:00 - 22:00",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-03-17",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-18",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-18",
+        "time": "14:30 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-03-19",
+        "time": "7:00 - 14:30",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-03-19",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-20",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-21",
+        "time": "16:00 - 22:00",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-03-22",
+        "time": "16:00 - 22:00",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-03-23",
+        "time": "16:00 - 22:00",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-03-24",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-25",
+        "time": "7:00 - 14:30",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-03-25",
+        "time": "14:30 - 22:00",
+        "ico": "36734292",
+        "sro": "MKB Prešov s.r.o.",
+        "mudr": "MUDr. Miroslava Kobeláková",
+        "executor": "MKB Prešov, s.r.o. (36734292) - MUDr. Miroslava Kobeláková"
+    },
+    {
+        "date": "2023-03-26",
+        "time": "7:00 - 14:30",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-03-26",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-03-27",
+        "time": "16:00 - 22:00",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-03-28",
+        "time": "16:00 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-03-29",
+        "time": "16:00 - 22:00",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-03-30",
+        "time": "16:00 - 22:00",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-03-31",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-01",
+        "time": "7:00 - 14:30",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-04-01",
+        "time": "14:30 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "MUDr. Mária Fedorová",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093) - MUDr. Mária Fedorová"
+    },
+    {
+        "date": "2023-04-02",
+        "time": "7:00 - 14:30",
+        "ico": "43822991",
+        "sro": "PO-zdrav s.r.o.",
+        "mudr": "MUDr. Eva Húsková",
+        "executor": "PO-zdrav, s.r.o. (43822991) - MUDr. Eva Húsková"
+    },
+    {
+        "date": "2023-04-02",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-03",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-04",
+        "time": "16:00 - 22:00",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-04-05",
+        "time": "16:00 - 22:00",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-04-06",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-07",
+        "time": "7:00 - 14:30",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-04-07",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-08",
+        "time": "7:00 - 14:30",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-04-08",
+        "time": "14:30 - 22:00",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "MUDr. Monika  Tomečková",
+        "executor": "Praktik M.T., s. r. o. (45667195) - MUDr. Monika  Tomečková"
+    },
+    {
+        "date": "2023-04-09",
+        "time": "7:00 - 14:30",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-04-09",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-10",
+        "time": "7:00 - 14:30",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-04-10",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-11",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-12",
+        "time": "16:00 - 22:00",
+        "ico": "47507608",
+        "sro": "PODHORSKÁ s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "PODHORSKÁ, s.r.o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-04-13",
+        "time": "16:00 - 22:00",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-04-14",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-15",
+        "time": "7:00 - 14:30",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-04-15",
+        "time": "14:30 - 22:00",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-04-16",
+        "time": "7:00 - 14:30",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-04-16",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-17",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-18",
+        "time": "16:00 - 22:00",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-04-19",
+        "time": "16:00 - 22:00",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-04-20",
+        "time": "16:00 - 22:00",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-04-21",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-22",
+        "time": "7:00 - 14:30",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-04-22",
+        "time": "14:30 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-04-23",
+        "time": "7:00 - 14:30",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-04-23",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-24",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-25",
+        "time": "16:00 - 22:00",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-04-26",
+        "time": "16:00 - 22:00",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-04-27",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-04-28",
+        "time": "16:00 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-04-29",
+        "time": "7:00 - 14:30",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-04-29",
+        "time": "14:30 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-04-30",
+        "time": "7:00 - 14:30",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-04-30",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-01",
+        "time": "16:00 - 22:00",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "",
+        "executor": "Praktik M.T., s. r. o. (45667195)"
+    },
+    {
+        "date": "2023-06-02",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-03",
+        "time": "7:00 - 14:30",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-06-03",
+        "time": "14:30 - 22:00",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-06-04",
+        "time": "7:00 - 14:30",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-06-04",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-05",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-06",
+        "time": "16:00 - 22:00",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-06-07",
+        "time": "16:00 - 22:00",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-06-08",
+        "time": "16:00 - 22:00",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-06-09",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-10",
+        "time": "7:00 - 14:30",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-06-10",
+        "time": "14:30 - 22:00",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-06-11",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-11",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-12",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-13",
+        "time": "16:00 - 22:00",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-06-14",
+        "time": "16:00 - 22:00",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-06-15",
+        "time": "16:00 - 22:00",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-06-16",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-17",
+        "time": "7:00 - 14:30",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-06-17",
+        "time": "14:30 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-06-18",
+        "time": "7:00 - 14:30",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-06-18",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-19",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-20",
+        "time": "16:00 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-06-21",
+        "time": "16:00 - 22:00",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-06-22",
+        "time": "16:00 - 22:00",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-06-23",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-24",
+        "time": "7:00 - 14:30",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-06-24",
+        "time": "14:30 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-06-25",
+        "time": "7:00 - 14:30",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-06-25",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-06-26",
+        "time": "16:00 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-06-27",
+        "time": "16:00 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-06-28",
+        "time": "16:00 - 22:00",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-06-29",
+        "time": "16:00 - 22:00",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-06-30",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-01",
+        "time": "7:00 - 14:30",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-05-01",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-02",
+        "time": "16:00 - 22:00",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-05-03",
+        "time": "16:00 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-05-04",
+        "time": "16:00 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-05-05",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-06",
+        "time": "7:00 - 14:30",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-05-06",
+        "time": "14:30 - 22:00",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-05-07",
+        "time": "7:00 - 14:30",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-05-07",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-08",
+        "time": "7:00 - 14:30",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-05-08",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-09",
+        "time": "16:00 - 22:00",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-05-10",
+        "time": "16:00 - 22:00",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-05-11",
+        "time": "16:00 - 22:00",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-05-12",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-13",
+        "time": "7:00 - 14:30",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-05-13",
+        "time": "14:30 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-05-14",
+        "time": "7:00 - 14:30",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Ladislav Škyvra",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Ladislav Škyvra"
+    },
+    {
+        "date": "2023-05-14",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-15",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-16",
+        "time": "16:00 - 22:00",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-05-17",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-18",
+        "time": "16:00 - 22:00",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-05-19",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-20",
+        "time": "7:00 - 14:30",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-05-20",
+        "time": "14:30 - 22:00",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-05-21",
+        "time": "7:00 - 14:30",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-05-21",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-22",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-23",
+        "time": "16:00 - 22:00",
+        "ico": "36734292",
+        "sro": "MKB Prešov s.r.o.",
+        "mudr": "MUDr. Miroslava Kobeláková",
+        "executor": "MKB Prešov, s.r.o. (36734292) - MUDr. Miroslava Kobeláková"
+    },
+    {
+        "date": "2023-05-24",
+        "time": "16:00 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-05-25",
+        "time": "16:00 - 22:00",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-05-26",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-27",
+        "time": "7:00 - 14:30",
+        "ico": "47507608",
+        "sro": "PODHORSKÁ s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "PODHORSKÁ, s.r.o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-05-27",
+        "time": "14:30 - 22:00",
+        "ico": "36452998",
+        "sro": "Poliklinika Giraltovce ILB s.r.o.",
+        "mudr": "MUDr. Milan  Maťaš",
+        "executor": "Poliklinika Giraltovce ILB, s.r.o. (36452998) - MUDr. Milan  Maťaš"
+    },
+    {
+        "date": "2023-05-28",
+        "time": "7:00 - 14:30",
+        "ico": "43822991",
+        "sro": "PO-zdrav s.r.o.",
+        "mudr": "MUDr. Eva Húsková",
+        "executor": "PO-zdrav, s.r.o. (43822991) - MUDr. Eva Húsková"
+    },
+    {
+        "date": "2023-05-28",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-29",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-05-30",
+        "time": "16:00 - 22:00",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-05-31",
+        "time": "16:00 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "MUDr. Mária Fedorová",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093) - MUDr. Mária Fedorová"
+    },
+    {
+        "date": "2023-07-01",
+        "time": "7:00 - 14:30",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-07-01",
+        "time": "14:30 - 22:00",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-07-02",
+        "time": "7:00 - 14:30",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-07-02",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-03",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-04",
+        "time": "16:00 - 22:00",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-07-05",
+        "time": "7:00 - 14:30",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Lýdia Franková",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Lýdia Franková"
+    },
+    {
+        "date": "2023-07-05",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-06",
+        "time": "16:00 - 22:00",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-07-07",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-08",
+        "time": "7:00 - 14:30",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-07-08",
+        "time": "14:30 - 22:00",
+        "ico": "36734292",
+        "sro": "MKB Prešov s.r.o.",
+        "mudr": "MUDr. Miroslava Kobeláková",
+        "executor": "MKB Prešov, s.r.o. (36734292) - MUDr. Miroslava Kobeláková"
+    },
+    {
+        "date": "2023-07-09",
+        "time": "7:00 - 14:30",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-07-09",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-10",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-11",
+        "time": "16:00 - 22:00",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-07-12",
+        "time": "16:00 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-07-13",
+        "time": "16:00 - 22:00",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-07-14",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-15",
+        "time": "7:00 - 14:30",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-07-15",
+        "time": "14:30 - 22:00",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-07-16",
+        "time": "7:00 - 14:30",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "MUDr. Monika  Tomečková",
+        "executor": "Praktik M.T., s. r. o. (45667195) - MUDr. Monika  Tomečková"
+    },
+    {
+        "date": "2023-07-16",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-17",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-18",
+        "time": "16:00 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-07-19",
+        "time": "16:00 - 22:00",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-07-20",
+        "time": "16:00 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093)"
+    },
+    {
+        "date": "2023-07-21",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-22",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-22",
+        "time": "14:30 - 22:00",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-07-23",
+        "time": "7:00 - 14:30",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-07-23",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-24",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-25",
+        "time": "16:00 - 22:00",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-07-26",
+        "time": "16:00 - 22:00",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-07-27",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-28",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-29",
+        "time": "7:00 - 14:30",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-07-29",
+        "time": "14:30 - 22:00",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-07-30",
+        "time": "7:00 - 14:30",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-07-30",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-07-31",
+        "time": "16:00 - 22:00",
+        "ico": "47507608",
+        "sro": "PODHORSKÁ s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "PODHORSKÁ, s.r.o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-08-01",
+        "time": "16:00 - 22:00",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-08-02",
+        "time": "16:00 - 22:00",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-08-03",
+        "time": "16:00 - 22:00",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-08-04",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-05",
+        "time": "7:00 - 14:30",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-08-05",
+        "time": "14:30 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-08-06",
+        "time": "7:00 - 14:30",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-08-06",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-07",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-08",
+        "time": "16:00 - 22:00",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-08-09",
+        "time": "16:00 - 22:00",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-08-10",
+        "time": "16:00 - 22:00",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-08-11",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-12",
+        "time": "7:00 - 14:30",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-08-12",
+        "time": "14:30 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-08-13",
+        "time": "7:00 - 14:30",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-08-13",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-14",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-15",
+        "time": "16:00 - 22:00",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-08-16",
+        "time": "16:00 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-08-17",
+        "time": "16:00 - 22:00",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-08-18",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-19",
+        "time": "7:00 - 14:30",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-08-19",
+        "time": "14:30 - 22:00",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-08-20",
+        "time": "7:00 - 14:30",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-08-20",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-21",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-22",
+        "time": "16:00 - 22:00",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-08-23",
+        "time": "16:00 - 22:00",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-08-24",
+        "time": "16:00 - 22:00",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-08-25",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-26",
+        "time": "7:00 - 14:30",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-08-26",
+        "time": "14:30 - 22:00",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-08-27",
+        "time": "7:00 - 14:30",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-08-27",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-28",
+        "time": "16:00 - 22:00",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-08-29",
+        "time": "7:00 - 14:30",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-08-29",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-08-30",
+        "time": "16:00 - 22:00",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-08-31",
+        "time": "16:00 - 22:00",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-09-01",
+        "time": "7:00 - 14:30",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-09-01",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-02",
+        "time": "7:00 - 14:30",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-09-02",
+        "time": "14:30 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "MUDr. Mária Fedorová",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093) - MUDr. Mária Fedorová"
+    },
+    {
+        "date": "2023-09-03",
+        "time": "7:00 - 14:30",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-09-03",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-04",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-05",
+        "time": "16:00 - 22:00",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-09-06",
+        "time": "16:00 - 22:00",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-09-07",
+        "time": "16:00 - 22:00",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-09-08",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-09",
+        "time": "7:00 - 14:30",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-09-09",
+        "time": "14:30 - 22:00",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-09-10",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-10",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-11",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-12",
+        "time": "16:00 - 22:00",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Lýdia Franková",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Lýdia Franková"
+    },
+    {
+        "date": "2023-09-13",
+        "time": "16:00 - 22:00",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-09-14",
+        "time": "16:00 - 22:00",
+        "ico": "36734292",
+        "sro": "MKB Prešov s.r.o.",
+        "mudr": "MUDr. Miroslava Kobeláková",
+        "executor": "MKB Prešov, s.r.o. (36734292) - MUDr. Miroslava Kobeláková"
+    },
+    {
+        "date": "2023-09-15",
+        "time": "7:00 - 14:30",
+        "ico": "47507608",
+        "sro": "MEDIASTINUM s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "MEDIASTINUM s. r. o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-09-15",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-16",
+        "time": "7:00 - 14:30",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-09-16",
+        "time": "14:30 - 22:00",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-09-17",
+        "time": "7:00 - 14:30",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-09-17",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-18",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-19",
+        "time": "16:00 - 22:00",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-09-20",
+        "time": "16:00 - 22:00",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-09-21",
+        "time": "16:00 - 22:00",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "MUDr. Monika  Tomečková",
+        "executor": "Praktik M.T., s. r. o. (45667195) - MUDr. Monika  Tomečková"
+    },
+    {
+        "date": "2023-09-22",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-23",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-23",
+        "time": "14:30 - 22:00",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-09-24",
+        "time": "7:00 - 14:30",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-09-24",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-25",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-26",
+        "time": "16:00 - 22:00",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-09-27",
+        "time": "16:00 - 22:00",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-09-28",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-29",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-09-30",
+        "time": "7:00 - 14:30",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-09-30",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-01",
+        "time": "7:00 - 14:30",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-10-01",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-02",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-03",
+        "time": "16:00 - 22:00",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-10-04",
+        "time": "16:00 - 22:00",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-10-05",
+        "time": "16:00 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-10-06",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-07",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-07",
+        "time": "14:30 - 22:00",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-10-08",
+        "time": "7:00 - 14:30",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-10-08",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-09",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-10",
+        "time": "16:00 - 22:00",
+        "ico": "55162304",
+        "sro": "LaSky s.r.o.",
+        "mudr": "MUDr. Ladislav Škyvra",
+        "executor": "LaSky s. r. o. (55162304) - MUDr. Ladislav Škyvra"
+    },
+    {
+        "date": "2023-10-11",
+        "time": "16:00 - 22:00",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-10-12",
+        "time": "16:00 - 22:00",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-10-13",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-14",
+        "time": "7:00 - 14:30",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-10-14",
+        "time": "14:30 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-10-15",
+        "time": "7:00 - 14:30",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Lýdia Franková",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Lýdia Franková"
+    },
+    {
+        "date": "2023-10-15",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-16",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-17",
+        "time": "16:00 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-10-18",
+        "time": "16:00 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-10-19",
+        "time": "16:00 - 22:00",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-10-20",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-21",
+        "time": "7:00 - 14:30",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-10-21",
+        "time": "14:30 - 22:00",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-10-22",
+        "time": "7:00 - 14:30",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-10-22",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-23",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-24",
+        "time": "16:00 - 22:00",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-10-25",
+        "time": "16:00 - 22:00",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-10-26",
+        "time": "16:00 - 22:00",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-10-27",
+        "time": "16:00 - 22:00",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-10-28",
+        "time": "7:00 - 14:30",
+        "ico": "36469394",
+        "sro": "MEDIKARD s.r.o.",
+        "mudr": "MUDr. Rudolf   Smik",
+        "executor": "MEDIKARD, s. r.o. (36469394) - MUDr. Rudolf   Smik"
+    },
+    {
+        "date": "2023-10-28",
+        "time": "14:30 - 22:00",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-10-29",
+        "time": "7:00 - 14:30",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-10-29",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-10-30",
+        "time": "16:00 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-10-31",
+        "time": "16:00 - 22:00",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-11-01",
+        "time": "7:00 - 14:30",
+        "ico": "36734292",
+        "sro": "MKB Prešov s.r.o.",
+        "mudr": "MUDr. Miroslava Kobeláková",
+        "executor": "MKB Prešov, s.r.o. (36734292) - MUDr. Miroslava Kobeláková"
+    },
+    {
+        "date": "2023-11-01",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-02",
+        "time": "16:00 - 22:00",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-11-03",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-04",
+        "time": "7:00 - 14:30",
+        "ico": "37793420",
+        "sro": "MUDr. Andrej Evin",
+        "mudr": "MUDr. Andrej Evin",
+        "executor": "MUDr. Andrej Evin (37793420) - MUDr. Andrej Evin"
+    },
+    {
+        "date": "2023-11-04",
+        "time": "14:30 - 22:00",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "MUDr. Iveta Demjanová",
+        "executor": "MUDr. Iveta Demjanová (37791826) - MUDr. Iveta Demjanová"
+    },
+    {
+        "date": "2023-11-05",
+        "time": "7:00 - 14:30",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "MUDr. Mária Fedorová",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093) - MUDr. Mária Fedorová"
+    },
+    {
+        "date": "2023-11-05",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-06",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-07",
+        "time": "16:00 - 22:00",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-11-08",
+        "time": "16:00 - 22:00",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-11-09",
+        "time": "16:00 - 22:00",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-11-10",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-11",
+        "time": "7:00 - 14:30",
+        "ico": "47507608",
+        "sro": "MEDIASTINUM s.r.o.",
+        "mudr": "MUDr. Eva Podhorská",
+        "executor": "MEDIASTINUM s. r. o. (47507608) - MUDr. Eva Podhorská"
+    },
+    {
+        "date": "2023-11-11",
+        "time": "14:30 - 22:00",
+        "ico": "45667195",
+        "sro": "Praktik M.T. s.r.o.",
+        "mudr": "MUDr. Monika  Tomečková",
+        "executor": "Praktik M.T., s. r. o. (45667195) - MUDr. Monika  Tomečková"
+    },
+    {
+        "date": "2023-11-12",
+        "time": "7:30 - 14:30",
+        "ico": "36491730",
+        "sro": "PRIMA-MED s.r.o.",
+        "mudr": "MUDr. Mária Talianová",
+        "executor": "PRIMA-MED s.r.o. (36491730) - MUDr. Mária Talianová"
+    },
+    {
+        "date": "2023-11-12",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-13",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-14",
+        "time": "16:00 - 22:00",
+        "ico": "43822991",
+        "sro": "PO-zdrav s.r.o.",
+        "mudr": "MUDr. Eva Húsková",
+        "executor": "PO-zdrav, s.r.o. (43822991) - MUDr. Eva Húsková"
+    },
+    {
+        "date": "2023-11-15",
+        "time": "16:00 - 22:00",
+        "ico": "36483214",
+        "sro": "PRA-LEK s.r.o.",
+        "mudr": "MUDr. Lucia Anderková",
+        "executor": "PRA-LEK s.r.o. (36483214) - MUDr. Lucia Anderková"
+    },
+    {
+        "date": "2023-11-16",
+        "time": "16:00 - 22:00",
+        "ico": "36505927",
+        "sro": "ReniMed s.r.o.",
+        "mudr": "MUDr. Renáta Kačalová",
+        "executor": "ReniMed, s.r.o. (36505927) - MUDr. Renáta Kačalová"
+    },
+    {
+        "date": "2023-11-17",
+        "time": "7:00 - 14:30",
+        "ico": "52300404",
+        "sro": "S AMB s.r.o.",
+        "mudr": "",
+        "executor": "S AMB s.r.o. (52300404)"
+    },
+    {
+        "date": "2023-11-17",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-18",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-18",
+        "time": "14:30 - 22:00",
+        "ico": "47742372",
+        "sro": "SIMOVA s.r.o.",
+        "mudr": "MUDr. Jana  Šimová",
+        "executor": "SIMOVA, s.r.o. (47742372) - MUDr. Jana  Šimová"
+    },
+    {
+        "date": "2023-11-19",
+        "time": "7:00 - 14:30",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Lýdia Franková",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Lýdia Franková"
+    },
+    {
+        "date": "2023-11-19",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-20",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-21",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-22",
+        "time": "16:00 - 22:00",
+        "ico": "46897453",
+        "sro": "Salus animarum s.r.o.",
+        "mudr": "MUDr. Zuzana Mojzešová",
+        "executor": "Salus animarum, s.r.o. (46897453) - MUDr. Zuzana Mojzešová"
+    },
+    {
+        "date": "2023-11-23",
+        "time": "16:00 - 22:00",
+        "ico": "45275017",
+        "sro": "SIMA-MEDIK s.r.o.",
+        "mudr": "MUDr. Melánia Rückschlosová",
+        "executor": "SIMA-MEDIK, s.r.o. (45275017) - MUDr. Melánia Rückschlosová"
+    },
+    {
+        "date": "2023-11-24",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-25",
+        "time": "7:00 - 14:30",
+        "ico": "36693286",
+        "sro": "TARMED s.r.o.",
+        "mudr": "MUDr. Daniela Tarbajovská",
+        "executor": "TARMED, s.r.o. (36693286) - MUDr. Daniela Tarbajovská"
+    },
+    {
+        "date": "2023-11-25",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-26",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-26",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-27",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-11-28",
+        "time": "16:00 - 22:00",
+        "ico": "36513636",
+        "sro": "STOMAKO s.r.o.",
+        "mudr": "MUDr. Melánia  Ryníková",
+        "executor": "STOMAKO, s.r.o., (36513636) - MUDr. Melánia  Ryníková"
+    },
+    {
+        "date": "2023-11-29",
+        "time": "16:00 - 22:00",
+        "ico": "44100108",
+        "sro": "TELOS s.r.o.",
+        "mudr": "MUDr. Lenka Szwanczar Tomková",
+        "executor": "TELOS, s.r.o. (44100108) - MUDr. Lenka Szwanczar Tomková"
+    },
+    {
+        "date": "2023-11-30",
+        "time": "16:00 - 22:00",
+        "ico": "46454446",
+        "sro": "TOTE s.r.o.",
+        "mudr": "MUDr. Eva Tarbajovská",
+        "executor": "TOTE, s.r.o. (46454446) - MUDr. Eva Tarbajovská"
+    },
+    {
+        "date": "2023-12-01",
+        "time": "16:00 - 22:00",
+        "ico": "53187431",
+        "sro": "APL LEMEŠANY s.r.o.",
+        "mudr": "MUDr. Miroslav Baník",
+        "executor": "APL LEMEŠANY s.r.o. (53187431) - MUDr. Miroslav Baník"
+    },
+    {
+        "date": "2023-12-02",
+        "time": "7:00 - 14:30",
+        "ico": "36484067",
+        "sro": "APL PRAKTIK s.r.o.",
+        "mudr": "MUDr. Gabriela Fujeriková",
+        "executor": "APL PRAKTIK s.r.o. (36484067) - MUDr. Gabriela Fujeriková"
+    },
+    {
+        "date": "2023-12-02",
+        "time": "14:30 - 22:00",
+        "ico": "55162304",
+        "sro": "LaSky s.r.o.",
+        "mudr": "MUDr. Ladislav Škyvra",
+        "executor": "LaSky s. r. o. (55162304) - MUDr. Ladislav Škyvra"
+    },
+    {
+        "date": "2023-12-03",
+        "time": "7:00 - 14:30",
+        "ico": "36511650",
+        "sro": "EVA-CLINIQUE s.r.o.",
+        "mudr": "MUDr. Eva Kníšová",
+        "executor": "EVA-CLINIQUE, s.r.o. (36511650) - MUDr. Eva Kníšová"
+    },
+    {
+        "date": "2023-12-03",
+        "time": "14:30 - 22:00",
+        "ico": "36500879",
+        "sro": "GP - PRAKTIK s.r.o.",
+        "mudr": "MUDr. Juraj Staško, MUDr. Veronika Bebková",
+        "executor": "GP - PRAKTIK, s.r.o. (36500879) - MUDr. Juraj Staško, MUDr. Veronika Bebková"
+    },
+    {
+        "date": "2023-12-04",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-05",
+        "time": "16:00 - 22:00",
+        "ico": "36822183",
+        "sro": "BONA CURA s.r.o.",
+        "mudr": "MUDr. Ján  Leško - Andraščík",
+        "executor": "BONA CURA, s.r.o. (36822183) - MUDr. Ján  Leško - Andraščík"
+    },
+    {
+        "date": "2023-12-06",
+        "time": "16:00 - 22:00",
+        "ico": "36501701",
+        "sro": "DURKAN s.r.o.",
+        "mudr": "MUDr. Vladislav Ďurkáň",
+        "executor": "DURKAN, s.r.o. (36501701) - MUDr. Vladislav Ďurkáň"
+    },
+    {
+        "date": "2023-12-07",
+        "time": "16:00 - 22:00",
+        "ico": "46921737",
+        "sro": "EVAMED plus s.r.o.",
+        "mudr": "MUDr. Eva Obalová",
+        "executor": "EVAMED plus, s.r.o., (46921737) - MUDr. Eva Obalová"
+    },
+    {
+        "date": "2023-12-08",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-09",
+        "time": "7:00 - 14:30",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-09",
+        "time": "14:30 - 22:00",
+        "ico": "36446793",
+        "sro": "Lek - TOP s.r.o.",
+        "mudr": "MUDr. Ľudmila Ligusová",
+        "executor": "Lek - TOP, s.r.o., (36446793) - MUDr. Ľudmila Ligusová"
+    },
+    {
+        "date": "2023-12-10",
+        "time": "7:00 - 14:30",
+        "ico": "54274311",
+        "sro": "PETKEMED s.r.o.",
+        "mudr": "",
+        "executor": "PETKEMED s.r.o. (54274311)"
+    },
+    {
+        "date": "2023-12-10",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-11",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-12",
+        "time": "16:00 - 22:00",
+        "ico": "36500259",
+        "sro": "HMI s.r.o.",
+        "mudr": "MUDr. Iveta  Hladká",
+        "executor": "HMI, s.r.o. (36500259) - MUDr. Iveta  Hladká"
+    },
+    {
+        "date": "2023-12-13",
+        "time": "16:00 - 22:00",
+        "ico": "45295093",
+        "sro": "MUDr. Mária Fedorová s.r.o.",
+        "mudr": "",
+        "executor": "MUDr. Mária Fedorová, s.r.o. (45295093)"
+    },
+    {
+        "date": "2023-12-14",
+        "time": "16:00 - 22:00",
+        "ico": "43848362",
+        "sro": "LaSmed s.r.o.",
+        "mudr": "MUDr. Lucia Šimoňáková",
+        "executor": "LaSmed s. r. o. (43848362) - MUDr. Lucia Šimoňáková"
+    },
+    {
+        "date": "2023-12-15",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-16",
+        "time": "7:00 - 14:30",
+        "ico": "35911891",
+        "sro": "Pado MD s.r.o.",
+        "mudr": "MUDr. Michal Pado",
+        "executor": "Pado MD, s.r.o. (35911891) - MUDr. Michal Pado"
+    },
+    {
+        "date": "2023-12-16",
+        "time": "14:30 - 22:00",
+        "ico": "36490598",
+        "sro": "LIPTÁK MD s.r.o.",
+        "mudr": "MUDr. Dušan Lipták",
+        "executor": "LIPTÁK MD, s.r.o. (36490598) - MUDr. Dušan Lipták"
+    },
+    {
+        "date": "2023-12-17",
+        "time": "7:00 - 14:30",
+        "ico": "47850230",
+        "sro": "MUCOMED s.r.o.",
+        "mudr": "MUDr. Mario Baranovič",
+        "executor": "MUCOMED s.r.o. (47850230) - MUDr. Mario Baranovič"
+    },
+    {
+        "date": "2023-12-17",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-18",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-19",
+        "time": "16:00 - 22:00",
+        "ico": "46340041",
+        "sro": "MAR MEDIK s.r.o.",
+        "mudr": "MUDr. Mária Zúbeková",
+        "executor": "MAR MEDIK, s.r.o. (46340041) - MUDr. Mária Zúbeková"
+    },
+    {
+        "date": "2023-12-20",
+        "time": "16:00 - 22:00",
+        "ico": "36498271",
+        "sro": "MEDI - D.B. s.r.o.Bzenov",
+        "mudr": "MUDr. Denisa Klír",
+        "executor": "MEDI - D.B., s.r.o. Bzenov (36498271) - MUDr. Denisa Klír"
+    },
+    {
+        "date": "2023-12-21",
+        "time": "16:00 - 22:00",
+        "ico": "36481734",
+        "sro": "MEDIGEM s.r.o.",
+        "mudr": "MUDr. Kamila Boľanovská",
+        "executor": "MEDIGEM, s.r.o., (36481734) - MUDr. Kamila Boľanovská"
+    },
+    {
+        "date": "2023-12-22",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-23",
+        "time": "7:00 - 14:30",
+        "ico": "51840073",
+        "sro": "MDrP s.r.o.",
+        "mudr": "MUDr. Viera Janigová",
+        "executor": "MDrP s.r.o. (51840073) - MUDr. Viera Janigová"
+    },
+    {
+        "date": "2023-12-23",
+        "time": "14:30 - 22:00",
+        "ico": "45294232",
+        "sro": "MEDISOL s.r.o.",
+        "mudr": "MUDr. Darina Peregrinová",
+        "executor": "MEDISOL, s.r.o. (45294232) - MUDr. Darina Peregrinová"
+    },
+    {
+        "date": "2023-12-24",
+        "time": "7:00 - 14:30",
+        "ico": "46604341",
+        "sro": "MP MEDIK s.r.o.",
+        "mudr": "MUDr. Peter  Gazdík",
+        "executor": "MP MEDIK s.r.o. (46604341) - MUDr. Peter  Gazdík"
+    },
+    {
+        "date": "2023-12-24",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-25",
+        "time": "7:00 - 14:30",
+        "ico": "36500071",
+        "sro": "MEDPRESS s.r.o.",
+        "mudr": "MUDr. Mária  Jacková",
+        "executor": "MEDPRESS, s.r.o. (36500071) - MUDr. Mária  Jacková"
+    },
+    {
+        "date": "2023-12-25",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-26",
+        "time": "7:00 - 14:30",
+        "ico": "46917951",
+        "sro": "LIEČ - PREV RK s.r.o.",
+        "mudr": "MUDr. Mária  Kyslanová",
+        "executor": "LIEČ - PREV RK s.r.o., (46917951) - MUDr. Mária  Kyslanová"
+    },
+    {
+        "date": "2023-12-26",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-27",
+        "time": "16:00 - 22:00",
+        "ico": "37791826",
+        "sro": "MUDr. Iveta Demjanová",
+        "mudr": "",
+        "executor": "MUDr. Iveta Demjanová (37791826)"
+    },
+    {
+        "date": "2023-12-28",
+        "time": "16:00 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    },
+    {
+        "date": "2023-12-29",
+        "time": "16:00 - 22:00",
+        "ico": "36510378",
+        "sro": "MEDMARA s.r.o.",
+        "mudr": "MUDr. Lýdia Franková",
+        "executor": "MEDMARA, s.r.o. (36510378) - MUDr. Lýdia Franková"
+    },
+    {
+        "date": "2023-12-30",
+        "time": "7:00 - 14:30",
+        "ico": "36510718",
+        "sro": "KNG s.r.o.",
+        "mudr": "MUDr. Dušan Bráz",
+        "executor": "KNG s.r.o. (36510718) - MUDr. Dušan Bráz"
+    },
+    {
+        "date": "2023-12-30",
+        "time": "14:30 - 22:00",
+        "ico": "47971665",
+        "sro": "MDPRAK s.r.o.",
+        "mudr": "MUDr. Peter  Zbojovský",
+        "executor": "MDPRAK, s.r.o. (47971665) - MUDr. Peter  Zbojovský"
+    },
+    {
+        "date": "2023-12-31",
+        "time": "7:00 - 14:30",
+        "ico": "36501093",
+        "sro": "LEK Humanita s.r.o.",
+        "mudr": "MUDr. Mohamed Abu Zaid",
+        "executor": "LEK Humanita, s.r.o. (36501093) - MUDr. Mohamed Abu Zaid"
+    },
+    {
+        "date": "2023-12-31",
+        "time": "14:30 - 22:00",
+        "ico": "",
+        "sro": "",
+        "mudr": "",
+        "executor": "zabezpečená organizátorom"
+    }
+]

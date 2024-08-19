@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { initializeIcons } from '@fluentui/font-icons-mdl2';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+initializeIcons();
+
+const root = ReactDOM.createRoot(document.getElementById('main'));
 root.render(
   <React.StrictMode>
     <App />
